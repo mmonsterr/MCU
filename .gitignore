@@ -1,0 +1,7 @@
+*.uvopt
+*.uvproj
+*.mmonsterr
+!*.c
+Listings/
+Objects/*
+!Objects/*.hex
