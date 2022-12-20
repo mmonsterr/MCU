@@ -1,7 +1,12 @@
 *.uvopt
 *.uvproj
 *.mmonsterr
+*.htm
+*.lnp
+*.obj
+project
+Project
 !*.c
 Listings/
-Objects/*
-!Objects/*.hex
+
+
