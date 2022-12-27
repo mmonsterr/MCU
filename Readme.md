@@ -55,4 +55,5 @@ LED1-8的亮灭由74HC138译码器实现<img src="./Readme.assets/image-20221221
 
 # 定时器
 
-SYSclk :系统时钟，即晶振周期，本开发板上的晶振为12MHz
+SYSclk :系统时钟，即晶振周期，本开发板上的晶振为12MHz。
+
