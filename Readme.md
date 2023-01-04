@@ -88,3 +88,14 @@ void Timer0_Rountine() interrupt 1{
 	}
 ```
 
+# 串口通信
+
+51通过UART实现单片机的串口通信
+
+TXD transmit exchange data
+TXD和RXD交叉连接
+
+**电平标准**
+TTL电平:+5V表示1，0V表示0
+RS232电平:-3\~-15V表示1，+3~+15V表示0
+RS485电平:两线压差+2\~+6V表示1，-2~-6V表示0 (差分信号)
